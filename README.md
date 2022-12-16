@@ -1,0 +1,3 @@
+- 👋 Hi, I’m Alexey Dozorov
+- 🌱 I’m currently learning java
+- 📫 How to reach me alexalex.01@mail.ru
